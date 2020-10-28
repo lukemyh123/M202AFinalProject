@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Final Project for M202A
 
 You can use the [editor on GitHub](https://github.com/MenghuaXie/MenghuaXie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
