@@ -1,4 +1,4 @@
-## Project IBID：Smart Parking System based on Machine Vision
+## Project Topic：Smart Parking System based on Machine Vision
 ### Team Members
 * Yunhui Ma
 * Menghua Xie
