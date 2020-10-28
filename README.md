@@ -7,3 +7,6 @@
 ### Project Introduction
 #### Motivation
 bulabulabulabula...........
+#### Goal
+#### Deliverable
+### Hardware Used in This Project
