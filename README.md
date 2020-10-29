@@ -3,8 +3,8 @@
   
   #### Motivation 
   
-  ##### Finding parking spot can be time consuming especially during peak hours. 
-  ##### What if we can check which parking slot is available and notify drivers to find it. 
+  * Finding parking spot can be time consuming especially during peak hours. 
+  * What if we can check which parking slot is available and notify drivers to find it. 
   
    #### Goal 
   ##### Using Camera to check the parking spot. (CNN)  
