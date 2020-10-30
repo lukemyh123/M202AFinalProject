@@ -5,7 +5,7 @@
   
   * Finding parking spot can be time consuming especially during peak hours. 
   * We know that a lot of indoor parking lots have sensors on each parking slot to detect whether a car is parking. The available parking slot would turn on a green LED light to notify driver. In addition, the indoor parking lots have monitor to tell drivers how many parking slots are available.
-  * But the outdoor parking lots do not have this system. It is not accurate to use sensors to detect vehicles from outdoor because the sensor can be affected by a leaf or something else. Therefore, it would be useful to implement a camera to check the available parking slots
+  * But the outdoor parking lots do not have this system. It is not accurate to use sensors to detect vehicles from outdoor because the sensor can be affected by a leaf or something else. Also, flashing a LED light from outdoor is not easy to see. Therefore, it would be useful to implement a camera to check the available parking slots
   * Notify drivers the available parking slots especially during the peak time. 
   
    #### Goal 
